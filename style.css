@@ -303,7 +303,7 @@ nav .fa-solid{
 }
 @media (max-width:1000px){
     #my_img{
-        background-image: url(images/img3.png);
+        background-image: url('images/img3.png');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size:cover;
