@@ -304,6 +304,9 @@ nav .fa-solid{
 @media (max-width:1000px){
     #my_img{
         background-image: url(images/img3.JPEG);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:cover;
 /*         background-color: red;
         height:900px;
         max-width:100%; */
