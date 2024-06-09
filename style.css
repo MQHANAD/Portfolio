@@ -301,7 +301,7 @@ form .btn2{
 nav .fa-solid{
     display: none;
 }
-@media (max-width:600px){
+@media (max-width:1000px){
     #my_img{
         background-image: url(images/img3.JPEG);
 /*         background-color: red;
