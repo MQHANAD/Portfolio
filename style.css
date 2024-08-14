@@ -301,7 +301,7 @@ form .btn2{
 nav .fa-solid{
     display: none;
 }
-@media (max-width:1500px){
+@media (max-width:1300px){
     #my_img{
         background-image: url('images/img9.png');
         background-repeat: no-repeat;
@@ -312,7 +312,7 @@ nav .fa-solid{
         max-width:100%; */
     }
     .my_img-text{
-        margin-top: 120%;
+        margin-top: 140%;
         font-size: 16px;
     }
     .my_img-text h1{
