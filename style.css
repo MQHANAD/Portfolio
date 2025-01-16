@@ -29,8 +29,9 @@ body {
 
 .container {
     padding: 10px 10%;
+}
+.space1{
     padding-bottom: 40vh;
-
 }
 
 .bg-black {
